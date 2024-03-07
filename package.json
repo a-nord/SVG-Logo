@@ -1,5 +1,5 @@
 {
-  "name": "SVG-Logo",
+  "name": "svg-logo",
   "version": "1.0.0",
   "description": "An SVG Logo maker using command line.",
   "main": "index.js",
